@@ -1,4 +1,4 @@
 # Add  code here!
 def prime?(number)
-  prime_array = []
+  prime_range = 1..number.to_a
   
